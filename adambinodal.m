@@ -1,4 +1,4 @@
-function [vb,vs,mub,mus] = adambinodal(f,mu,dmu)
+function [vb,vs,mub,mus] = binodal(f,mu,dmu)
 % Adam Optimization used for calculating the binodal and spinodal of a
 % 2-component system determined through inline functions.
 %
