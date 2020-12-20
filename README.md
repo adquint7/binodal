@@ -3,7 +3,7 @@ An application of the gradient descent [Adam Optimization](https://arxiv.org/abs
 
 The binodal (equilibrium volume fractions), spinodal (region of phase instability), and equilibrium chemical potential is computed for any two component free-energy having exactly two inflection points within the region of volume fraction (0,1) such as the two component Flory-Huggins free-energy of polymer mixing with solvent as shown below.
 
-![BinodalDiagram](FH2.pdf)
+![BinodalDiagram](FH2.tif)
 
 ## Python Implementation
 Starting an instance of python3 with binodal.py on the path:
